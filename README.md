@@ -17,6 +17,20 @@ Para usar, copiar ou instalar o concurso é preciso uma licença de uso da STC F
 
 As matérias de exemplo do protótipo são biologia, história, matemática, geografia e cultura geral.
 
+## Telas
+
+Painel inicial, com as listas e os atalhos.
+
+![Painel inicial do concurso educativo](imagens/painel.png)
+
+Jogo em tela cheia, com a escada de prêmios, o cronômetro e os comodines.
+
+![Jogo em tela cheia](imagens/jogo.png)
+
+Criação de uma lista, com quatro opções e a resposta correta.
+
+![Criar nova lista](imagens/nova-lista.png)
+
 ## Como está feito
 
 - Python e Flet na interface.
